@@ -64,9 +64,10 @@ body{
   }
 }
 
-h1{
+h2{
   color: white;
   display: block;
+  padding: 10px;
 }
 
 a:hover{
@@ -76,3 +77,4 @@ a:hover{
 a:visited{
   color: yellow;
 }
+
