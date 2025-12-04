@@ -79,4 +79,8 @@ a:visited{
   color: yellow;
 }
 
+div{
+  display: flex;
+  justify-content: center;
+}
 
